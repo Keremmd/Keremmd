@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kerem Durmush</h1>
 <h3 align="center">A Curious Computer Engineering student from Turkey</h3>
 
-- 🌱 I’m currently learning ***Data Analyst***
+- 🌱 I’m currently learning ***Full Stack Development***
 
 - 👨‍💻 All of my projects are available at [keremdurmush.me](keremdurmush.me)
 
