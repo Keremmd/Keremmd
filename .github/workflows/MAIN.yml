@@ -1,8 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # günde 1 kez yeter
+  # Hesap kilidi kalkana kadar kapalı. Kilit kalkınca alttaki 2 satırın başındaki # işaretini sil.
+  # schedule:
+  #   - cron: "0 0 * * *"   # günde 1 kez
   workflow_dispatch:
 
 permissions:
