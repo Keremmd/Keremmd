@@ -1,27 +1,53 @@
-<h1 align="center">Hi 👋, I'm Kerem Durmush</h1>
-<h3 align="center">A Curious Computer Engineering student from Turkey</h3>
+<div align="center">
 
-- 🌱 I’m currently learning ***Full Stack Development***
+# Hi 👋, I'm Kerem Durmush
 
-- 👨‍💻 All of my projects are available at [keremdurmush.me](keremdurmush.me)
+### Computer Engineering student from Turkey 🇹🇷
+*Curious by nature, learning Full Stack Development one project at a time.*
 
-- 📫 How to reach me **kerem2804.kd@gmail.com**
+<a href="https://keremdurmush.me"><img src="https://img.shields.io/badge/Portfolio-keremdurmush.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/kerem-durmush-a224461a3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:kerem2804.kd@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kerem-durmush-a224461a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kerem-durmush-a224461a3" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=Keremmd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering student
+- 🌱 Currently learning **Full Stack Development**
+- 🚀 Building small projects to practice HTML, CSS, JavaScript and React
+- 🧠 Interested in algorithms (A* pathfinding in C) and web development
+- 📫 Reach me at **kerem2804.kd@gmail.com**
+- 🌐 All my projects: [keremdurmush.me](https://keremdurmush.me)
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,nodejs,bootstrap,git,github,vscode&theme=dark" alt="Skills"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📂 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keremmd&show_icons=true&locale=en&layout=compact" alt="keremmd" /></p>
+| Project | Description | Tech |
+|---|---|---|
+| [A_star](https://github.com/Keremmd/A_star) | A* pathfinding algorithm implementation | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
+| [htm--portfolio](https://github.com/Keremmd/htm--portfolio) | Personal portfolio website | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| [bootstrap-example](https://github.com/Keremmd/bootstrap-example) | Responsive layouts with Bootstrap | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| [Flexbox-example](https://github.com/Keremmd/Flexbox-example) | Flexbox layout practice | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| [grid-example](https://github.com/Keremmd/grid-example) | CSS Grid layout practice | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keremmd&theme=github-dark&hide_border=true" alt="Streak stats"/>
+</p>
 
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <sub>⭐ Thanks for stopping by!</sub>
+</div>
