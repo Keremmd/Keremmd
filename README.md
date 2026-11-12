@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Kerem Durmush
+# Hi 👋, I'm Kerem Durmuş
 
-### Computer Engineering student from Turkey 🇹🇷
+### Computer Engineer from Turkey 🇹🇷
 *Curious by nature, learning Full Stack Development one project at a time.*
 
 <a href="https://keremdurmush.me"><img src="https://img.shields.io/badge/Portfolio-keremdurmush.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering student
+- 🎓 Computer Engineering graduate
 - 🌱 Currently learning **Full Stack Development**
-- 🚀 Building small projects to practice HTML, CSS, JavaScript and React
+- 🚀 Building projects with HTML, CSS, JavaScript and React
 - 🧠 Interested in algorithms (A* pathfinding in C) and web development
 - 📫 Reach me at **kerem2804.kd@gmail.com**
 - 🌐 All my projects: [keremdurmush.me](https://keremdurmush.me)
